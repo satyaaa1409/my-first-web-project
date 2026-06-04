@@ -12,22 +12,22 @@ This project displays a simple bookmarks page with links to popular websites.
 
 ##  Tech Stack
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
   
-## 📂 Project Structure
+##  Project Structure
 
-📁 project-folder
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┣ 📄 script.js
+ project-folder
+ ┣  index.html
+ ┣  style.css
+ ┣  script.js
 
-## 📸 Preview
+##  Preview
 
 A simple webpage that shows a list of bookmarks like Google, Facebook, and Twitter.
 
-## 🎯 Purpose of this Project
+## Purpose of this Project
 
 * Practice HTML structure
 * Learn CSS styling
@@ -40,14 +40,9 @@ A simple webpage that shows a list of bookmarks like Google, Facebook, and Twitt
 * Linking CSS and JavaScript files
 * Writing clean and simple code
 * Using GitHub to manage and share projects
-
-## 🙌 Author
-
-**Satyam Kumar**
+  
 Beginner Web Developer | Learning Java & DSA
 
----
-
-## ⭐ Support
+## Support
 
 If you like this project, give it a ⭐ on GitHub!
